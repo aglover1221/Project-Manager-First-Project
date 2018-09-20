@@ -15,7 +15,9 @@ html {
     font-size: 1em;
     line-height: 1.4;
 }
-
+.bgg-redblue {
+  background: linear-gradient(135deg, #432982, #34f5ff);
+}
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
